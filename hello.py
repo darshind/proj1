@@ -1,5 +1,5 @@
 print 'Good Morning'
-print 'good afternoon'
+print 'good evening'
 
 #call function date.py and print the date
 #import student module
