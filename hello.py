@@ -11,3 +11,5 @@ print msg
 
 
 # call function from fibo module and print series
+
+#every number on a new line
