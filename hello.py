@@ -8,8 +8,8 @@ print msg
 
 #call function date.py and print the date
 
-#import student module
 
-#create student object and call method
 
-#good night
+# call function from fibo module and print series
+
+#every number on a new line
